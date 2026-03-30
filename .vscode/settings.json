@@ -1,0 +1,32 @@
+{
+    "writerHelper.docs.characters.path": "e:\\写点东西\\设定\\人物设定.md",
+    "writerHelper.docs.scenes.path": "e:\\写点东西\\设定\\场景设定.md",
+    "writerHelper.docs.items.path": "e:\\写点东西\\设定\\物品设定.md",
+    "writerHelper.docs.skills.path": "e:\\写点东西\\设定\\技能设定.md",
+    "writerHelper.configPaths.world": "e:\\写点东西\\设定\\世界设定.md",
+    "writerHelper.outline.paths": [
+        "e:\\写点东西\\大纲\\大纲.md"
+    ],
+    "writerHelper.detailed.paths": [
+        "e:\\写点东西\\大纲\\细纲.md"
+    ],
+    "writerHelper.chapterSummary.dirs": [
+        "章节"
+    ],
+    "writerHelper.chapterSummary.outputDir": "章节概述",
+    "writerHelper.enabled": true,
+    "writerHelper.ai.inlineMenuEnabled": true,
+    "writerHelper.ai.inlineMenuLanguages": [
+        "markdown",
+        "plaintext"
+    ],
+    "writerHelper.dialog.enabled": true,
+    "writerHelper.dialog.color": "#d4d723",
+    "writerHelper.plugin.indentation": 2,
+    "writerHelper.plugin.paragraphSpacingLines": 1,
+    "writerHelper.plugin.lineBreaks": "lf",
+    "writerHelper.plugin.formatting": true,
+    "writerHelper.plugin.markdownFormatting": false,
+    "writerHelper.plugin.lineAsParagraph": true,
+    "writerHelper.plugin.normalizeBlankLines": true
+}
