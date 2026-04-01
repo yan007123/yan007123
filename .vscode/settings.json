@@ -21,12 +21,13 @@
         "plaintext"
     ],
     "writerHelper.dialog.enabled": true,
-    "writerHelper.dialog.color": "#d4d723",
+    "writerHelper.dialog.color": "#c2c44f",
     "writerHelper.plugin.indentation": 2,
     "writerHelper.plugin.paragraphSpacingLines": 1,
     "writerHelper.plugin.lineBreaks": "lf",
     "writerHelper.plugin.formatting": true,
     "writerHelper.plugin.markdownFormatting": false,
     "writerHelper.plugin.lineAsParagraph": true,
-    "writerHelper.plugin.normalizeBlankLines": true
+    "writerHelper.plugin.normalizeBlankLines": true,
+    "writerHelper.dialog.italic": false
 }
