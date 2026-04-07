@@ -22,12 +22,73 @@
     ],
     "writerHelper.dialog.enabled": true,
     "writerHelper.dialog.color": "#c2c44f",
-    "writerHelper.plugin.indentation": 2,
+    "writerHelper.plugin.indentation": 4,
     "writerHelper.plugin.paragraphSpacingLines": 1,
     "writerHelper.plugin.lineBreaks": "lf",
     "writerHelper.plugin.formatting": true,
     "writerHelper.plugin.markdownFormatting": false,
     "writerHelper.plugin.lineAsParagraph": true,
     "writerHelper.plugin.normalizeBlankLines": true,
-    "writerHelper.dialog.italic": false
+    "writerHelper.dialog.italic": false,
+    "writerHelper.plugin.punctuationConversion": true,
+    "writerHelper.plugin.punctuationReplacements": [
+        {
+            "type": "simple",
+            "from": ",",
+            "to": "，"
+        },
+        {
+            "type": "simple",
+            "from": ".",
+            "to": "。"
+        },
+        {
+            "type": "simple",
+            "from": "!",
+            "to": "！"
+        },
+        {
+            "type": "simple",
+            "from": "?",
+            "to": "？"
+        },
+        {
+            "type": "simple",
+            "from": ":",
+            "to": "："
+        },
+        {
+            "type": "simple",
+            "from": ";",
+            "to": "；"
+        },
+        {
+            "type": "wrap",
+            "from": "(",
+            "to": "（",
+            "fromRight": ")",
+            "toRight": "）"
+        },
+        {
+            "type": "wrap",
+            "from": "[",
+            "to": "【",
+            "fromRight": "]",
+            "toRight": "】"
+        },
+        {
+            "type": "wrap",
+            "from": "\"",
+            "to": "“",
+            "fromRight": "\"",
+            "toRight": "”"
+        },
+        {
+            "type": "wrap",
+            "from": "'",
+            "to": "‘",
+            "fromRight": "'",
+            "toRight": "’"
+        }
+    ]
 }
