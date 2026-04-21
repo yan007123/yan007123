@@ -27,7 +27,7 @@
     "writerHelper.plugin.paragraphSpacingLines": 1,
     "writerHelper.plugin.lineBreaks": "lf",
     "writerHelper.plugin.formatting": true,
-    "writerHelper.plugin.markdownFormatting": false,
+    "writerHelper.plugin.markdownFormatting": true,
     "writerHelper.plugin.lineAsParagraph": true,
     "writerHelper.plugin.normalizeBlankLines": true,
     "writerHelper.dialog.italic": false,
@@ -91,5 +91,6 @@
             "fromRight": "'",
             "toRight": "’"
         }
-    ]
+    ],
+    "editor.wrappingIndent": "none"
 }
